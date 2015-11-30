@@ -1,0 +1,413 @@
+# depslib dependency file v1.0
+1439348752 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/base64.cpp
+	"base64.h"
+	<cstring>
+
+1413939910 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/base64.h
+	<string>
+
+1417706524 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/basicgraph.cpp
+	"basicgraph.h"
+	<sstream>
+
+1415862478 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/basicgraph.h
+	<string>
+	"graph.h"
+	"grid.h"
+	"observable.h"
+	"set.h"
+
+1437454774 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/graph.h
+	<string>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"map.h"
+	"set.h"
+	"tokenscanner.h"
+
+1412914036 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/compare.h
+
+1444453951 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/error.h
+	<string>
+	<exception>
+	"private/main.h"
+
+1413947272 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/private/main.h
+
+1437455018 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/hashcode.h
+	<string>
+
+1437455130 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/map.h
+	<cstdlib>
+	<map>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"stack.h"
+	"vector.h"
+
+1415848670 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/stack.h
+	<iterator>
+	<stack>
+	"error.h"
+	"hashcode.h"
+	"vector.h"
+
+1437455376 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/vector.h
+	<iterator>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"random.h"
+	"strlib.h"
+
+1428817440 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/random.h
+	<vector>
+
+1438481118 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/strlib.h
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+
+1437455254 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/set.h
+	<iostream>
+	<set>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"map.h"
+	"vector.h"
+
+1408114538 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/tokenscanner.h
+	<iostream>
+	<string>
+	"private/tokenpatch.h"
+
+1408114538 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/private/tokenpatch.h
+
+1437454788 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/grid.h
+	<iostream>
+	<string>
+	<sstream>
+	"error.h"
+	"hashcode.h"
+	"random.h"
+	"strlib.h"
+	"vector.h"
+
+1413168976 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/observable.h
+	<set>
+	"error.h"
+
+1413878164 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/bitstream.cpp
+	"bitstream.h"
+	<iostream>
+	"error.h"
+	"strlib.h"
+
+1413679890 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/bitstream.h
+	<istream>
+	<ostream>
+	<fstream>
+	<sstream>
+
+1437454482 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/console.cpp
+	"console.h"
+	<cstdio>
+	<string>
+	"error.h"
+	"exceptions.h"
+	"gwindow.h"
+	"platform.h"
+
+1434757170 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/console.h
+	<string>
+	"private/main.h"
+
+1434758536 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/exceptions.h
+	<iostream>
+
+1416472090 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/gwindow.h
+	<string>
+	"gtypes.h"
+	"point.h"
+	"vector.h"
+	"console.h"
+	"private/main.h"
+
+1408114538 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/gtypes.h
+	<iostream>
+	<string>
+
+1408114538 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/point.h
+	<string>
+
+1439305996 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/platform.h
+	<string>
+	<vector>
+	"gevents.h"
+	"gwindow.h"
+	"point.h"
+	"sound.h"
+
+1408114538 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/gevents.h
+	<string>
+	"gtimer.h"
+	"gwindow.h"
+
+1408114538 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/gtimer.h
+	<string>
+
+1413170586 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/sound.h
+	<string>
+
+1437454532 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/dawglexicon.cpp
+	"dawglexicon.h"
+	<algorithm>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<string>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"strlib.h"
+
+1428545482 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/dawglexicon.h
+	<set>
+	<string>
+	"set.h"
+	"stack.h"
+	<cctype>
+
+1413878366 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/direction.cpp
+	"direction.h"
+	"error.h"
+	"strlib.h"
+	"tokenscanner.h"
+
+1413167462 /home/joey/文档/StanfordCPPLib/StanfordCPPLib/direction.h
+	<iostream>
+	<string>
+
+1413167470 source:/home/joey/文档/StanfordCPPLib/StanfordCPPLib/error.cpp
+	"error.h"
+	<exception>
+	<string>
+	<iostream>
+
+1439348752 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/base64.cpp
+	"base64.h"
+	<cstring>
+
+1413939910 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/base64.h
+	<string>
+
+1417706524 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/basicgraph.cpp
+	"basicgraph.h"
+	<sstream>
+
+1415862478 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/basicgraph.h
+	<string>
+	"graph.h"
+	"grid.h"
+	"observable.h"
+	"set.h"
+
+1437454774 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/graph.h
+	<string>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"map.h"
+	"set.h"
+	"tokenscanner.h"
+
+1412914036 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/compare.h
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/error.h
+	<string>
+	<exception>
+	"private/main.h"
+
+1413947272 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/private/main.h
+
+1437455018 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/hashcode.h
+	<string>
+
+1437455130 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/map.h
+	<cstdlib>
+	<map>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"stack.h"
+	"vector.h"
+
+1415848670 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/stack.h
+	<iterator>
+	<stack>
+	"error.h"
+	"hashcode.h"
+	"vector.h"
+
+1437455376 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/vector.h
+	<iterator>
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"random.h"
+	"strlib.h"
+
+1428817440 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/random.h
+	<vector>
+
+1438481118 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/strlib.h
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+
+1437455254 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/set.h
+	<iostream>
+	<set>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"map.h"
+	"vector.h"
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/tokenscanner.h
+	<iostream>
+	<string>
+	"private/tokenpatch.h"
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/private/tokenpatch.h
+
+1437454788 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/grid.h
+	<iostream>
+	<string>
+	<sstream>
+	"error.h"
+	"hashcode.h"
+	"random.h"
+	"strlib.h"
+	"vector.h"
+
+1413168976 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/observable.h
+	<set>
+	"error.h"
+
+1413878164 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/bitstream.cpp
+	"bitstream.h"
+	<iostream>
+	"error.h"
+	"strlib.h"
+
+1413679890 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/bitstream.h
+	<istream>
+	<ostream>
+	<fstream>
+	<sstream>
+
+1437454482 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/console.cpp
+	"console.h"
+	<cstdio>
+	<string>
+	"error.h"
+	"exceptions.h"
+	"gwindow.h"
+	"platform.h"
+
+1434757170 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/console.h
+	<string>
+	"private/main.h"
+
+1434758536 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/exceptions.h
+	<iostream>
+
+1416472090 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/gwindow.h
+	<string>
+	"gtypes.h"
+	"point.h"
+	"vector.h"
+	"console.h"
+	"private/main.h"
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/gtypes.h
+	<iostream>
+	<string>
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/point.h
+	<string>
+
+1439305996 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/platform.h
+	<string>
+	<vector>
+	"gevents.h"
+	"gwindow.h"
+	"point.h"
+	"sound.h"
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/gevents.h
+	<string>
+	"gtimer.h"
+	"gwindow.h"
+
+1408114538 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/gtimer.h
+	<string>
+
+1413170586 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/sound.h
+	<string>
+
+1437454532 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/dawglexicon.cpp
+	"dawglexicon.h"
+	<algorithm>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<sstream>
+	<stdint.h>
+	<string>
+	"compare.h"
+	"error.h"
+	"hashcode.h"
+	"strlib.h"
+
+1428545482 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/dawglexicon.h
+	<set>
+	<string>
+	"set.h"
+	"stack.h"
+	<cctype>
+
+1413878366 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/direction.cpp
+	"direction.h"
+	"error.h"
+	"strlib.h"
+	"tokenscanner.h"
+
+1413167462 /home/joey/下载/StanfordCPPLib/StanfordCPPLib/direction.h
+	<iostream>
+	<string>
+
+1413167470 source:/home/joey/下载/StanfordCPPLib/StanfordCPPLib/error.cpp
+	"error.h"
+	<exception>
+	<string>
+	<iostream>
+

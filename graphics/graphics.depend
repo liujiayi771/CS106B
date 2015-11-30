@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444672045 source:/home/joey/文档/CodeBlocks_project/graphics/main.cpp
+	<iostream>
+	<string>
+	"graphics.h"
+	"extgraph.h"
+	"random.h"
+

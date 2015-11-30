@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446452226 source:/home/joey/文档/CodeBlocks_project/Assignment6-2/main.cpp
+	<iostream>
+	"chunklist.h"
+
+1446452274 source:/home/joey/文档/CodeBlocks_project/Assignment6-2/chunklist.cpp
+	<iostream>
+	"chunklist.h"
+
+1446447939 /home/joey/文档/CodeBlocks_project/Assignment6-2/chunklist.h
+	"vector.h"
+

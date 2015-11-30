@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446699414 source:/home/joey/文档/CodeBlocks_project/Handout9-4/main.cpp
+	<iostream>
+	"set.h"
+	"map.h"
+	"lexicon.h"
+

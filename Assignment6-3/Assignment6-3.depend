@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446466619 source:/home/joey/文档/CodeBlocks_project/Assignment6-3/main.cpp
+	<iostream>
+	"heap.h"
+	"random.h"
+
+1446466571 /home/joey/文档/CodeBlocks_project/Assignment6-3/heap.h
+	"vector.h"
+
+1446466717 source:/home/joey/文档/CodeBlocks_project/Assignment6-3/heap.cpp
+	<iostream>
+	"heap.h"
+

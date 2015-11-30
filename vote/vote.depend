@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444907864 source:/home/joey/文档/CodeBlocks_project/vote/main.cpp
+	<iostream>
+	"random.h"
+

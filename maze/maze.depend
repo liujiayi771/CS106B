@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1444906712 source:/home/joey/文档/CodeBlocks_project/maze/main.cpp
+	<iostream>
+	<string>
+	"simpio.h"
+	"graphics.h"
+	"maze.h"
+	"set.h"
+	"vector.h"
+	"stack.h"
+	"extgraph.h"
+	"random.h"
+

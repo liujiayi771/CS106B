@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446706055 source:/home/joey/文档/CodeBlocks_project/Handout8-1/main.cpp
+	<iostream>
+	"stack.h"
+

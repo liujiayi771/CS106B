@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445304525 source:/home/joey/文档/CodeBlocks_project/Assignment3-3/main.cpp
+	<iostream>
+	"vector.h"
+	"simpio.h"
+

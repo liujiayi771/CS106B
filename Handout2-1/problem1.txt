@@ -1,0 +1,16 @@
+a)vector<struct eMailMsg> EMailMsg;
+b)
+void RemoveSpam(vector<struct eMailMsg> EMailMsg)
+{
+	vector<struct eMailMsg>::iterator = it;
+	for(it = EMailMsg.begin(); i != EMailMsg.end(); i++)
+	{
+		if((*it).subject.find("SPAM") == 0)
+		{
+			EMailMsg.erase(it);
+		}
+	}
+}
+c)using vector<string> to to store the to field of the eMailMsg structure.
+string lastAddress = email.to[email.to.size() - 1];
+

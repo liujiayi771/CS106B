@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446709676 source:/home/joey/文档/CodeBlocks_project/Handout6-2/main.cpp
+	<iostream>
+	"rectangle.h"
+
+1446709709 /home/joey/文档/CodeBlocks_project/Handout6-2/rectangle.h
+

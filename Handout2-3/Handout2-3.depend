@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445664895 source:/home/joey/文档/CodeBlocks_project/Handout2-3/main.cpp
+	<iostream>
+	<stack>
+	<string>
+

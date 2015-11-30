@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445391967 source:/home/joey/文档/CodeBlocks_project/Assignment3-6/main.cpp
+	<iostream>
+	"vector.h"
+

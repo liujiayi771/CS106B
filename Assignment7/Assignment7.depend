@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1446535360 source:/home/joey/文档/CodeBlocks_project/Assignment7/heap.cpp
+	<iostream>
+	"heap.h"
+
+1446601998 /home/joey/文档/CodeBlocks_project/Assignment7/heap.h
+	"vector.h"
+	"cmpfn.h"
+	"genlib.h"
+	<iostream>
+
+1446635404 source:/home/joey/文档/CodeBlocks_project/Assignment7/main.cpp
+	"genlib.h"
+	"extgraph.h"
+	"vector.h"
+	"simpio.h"
+	"heap.h"
+	"graphics.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+

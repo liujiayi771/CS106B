@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1445444570 source:/home/joey/文档/CodeBlocks_project/Assignment4-1/boggle.cpp
+	<iostream>
+	<cctype>
+	<algorithm>
+	<string>
+	"genlib.h"
+	"lexicon.h"
+	"grid.h"
+	"simpio.h"
+	"random.h"
+	"vector.h"
+	"extgraph.h"
+	"gboggle.h"
+	"set.h"
+
+1445409684 source:/home/joey/文档/CodeBlocks_project/Assignment4-1/gboggle.cpp
+	"extgraph.h"
+	"gboggle.h"
+	"strutils.h"
+
+1315623136 /home/joey/文档/CodeBlocks_project/Assignment4-1/gboggle.h
+	"genlib.h"
+

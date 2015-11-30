@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CS106BLib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CS106BLib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CS106BLib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="../../cs106lib-0.3.1/CS106/ClientSocket.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/ClientSocket.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/Socket.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/Socket.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/SocketException.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/extgraph.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/extgraph.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/foreach.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/genlib.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/genlib.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/graphics.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/graphics.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/graphicsclient.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/graphicsclient.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/init.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/init.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/lexicon.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/lexicon.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/bst.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/bst.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/graphics.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/grid.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/grid.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/map.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/map.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/queue.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/queue.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/scanner.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/set.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/set.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/stack.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/stack.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/vector.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/private/vector.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/random.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/random.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/scanner.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/scanner.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/simpio.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/simpio.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/sound.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/sound.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/stack.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/strutils.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/strutils.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/testgraphics.cpp" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/testgraphics.h" />
+		<Unit filename="../../cs106lib-0.3.1/CS106/vector.h" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

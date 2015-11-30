@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444717042 source:/home/joey/文档/CodeBlocks_project/randomWriting/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"random.h"
+	"simpio.h"
+	"vector.h"
+	"map.h"
+
